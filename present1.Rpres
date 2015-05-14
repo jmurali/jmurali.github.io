@@ -26,3 +26,8 @@ Slide With Plot
 ```{r, echo=FALSE}
 plot(cars)
 ```
+
+End
+========================================================
+ 
+ **Good Bye**

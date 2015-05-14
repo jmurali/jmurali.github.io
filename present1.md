@@ -35,3 +35,8 @@ Slide With Plot
 ========================================================
 
 ![plot of chunk unnamed-chunk-2](present1-figure/unnamed-chunk-2-1.png) 
+
+End
+========================================================
+ 
+ **Good Bye**
