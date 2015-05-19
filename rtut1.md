@@ -18,61 +18,106 @@ transition: zoom
 
 R-Tutorial-1: R a calculator...
 ====
-```{r}
+
+```r
 2 + 2
 ```
-```{r}
+
+```
+[1] 4
+```
+
+```r
 4 * 5
 ```
-```{r}
+
+```
+[1] 20
+```
+
+```r
 10^2
 ```
-```{r}
+
+```
+[1] 100
+```
+
+```r
 (5+5)*4
+```
+
+```
+[1] 40
 ```
 
 R-Tutorial-1: R a calculator
 ========
 
-```{r}
+
+```r
 # 2-9
 ```
-```{r}
+
+```r
 a=10
 ```
-```{r}
+
+```r
 b=110
 ```
-```{r}
+
+```r
 a*b
+```
+
+```
+[1] 1100
 ```
 
 R-Tutorial-1: R workspce
 ========
 - When you create a variable or (a variable type) an object in R it stored in your *workspace*
 - To get the objects in the worspace, use the command:
-```{r}
+
+```r
 ls()
 ```
+
+```
+[1] "a" "b"
+```
 - To remove an object, say 'b', from *workspace*:
-```{r}
+
+```r
 rm(b)
 ```
 
 - Now the remaining objects
-```{r}
+
+```r
 ls()
+```
+
+```
+[1] "a"
 ```
 
 R-Tutorial-1: R workspce
 =====
 - To remove all the objects from the *workspace*, use the command:
-```{r}
+
+```r
 rm(list=ls())
 ```
 - Now the remaining objects
-```{r}
+
+```r
 ls()
+```
+
+```
+character(0)
 ```
 
 R-Tutorial-1
