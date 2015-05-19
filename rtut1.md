@@ -77,7 +77,7 @@ a*b
 
 R-Tutorial-1: R workspce
 ========
-- When you create a variable or (a variable type) an object in R it stored in your *workspace*
+- When you create a variable (an object) in R, it is stored in your *workspace*
 - To get the objects in the worspace, use the command:
 
 ```r
@@ -120,6 +120,8 @@ ls()
 character(0)
 ```
 
-R-Tutorial-1
-## will continue....
+R-Tutorial-1: END
+====
+
+**Will continue....**
 
